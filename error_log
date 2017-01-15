@@ -1,0 +1,475 @@
+[15-Dec-2014 00:03:42] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/electronicpalace/public_html/Database.php on line 6
+[15-Dec-2014 00:09:00] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/laptop.php on line 72
+[15-Dec-2014 00:09:01] PHP Warning:  preg_match_all() expects at least 3 parameters, 2 given in /home/electronicpalace/public_html/Register.php on line 278
+[15-Dec-2014 00:09:04] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/laptop.php on line 72
+[15-Dec-2014 00:09:06] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/laptop.php on line 72
+[15-Dec-2014 00:10:46] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/laptop.php on line 72
+[15-Dec-2014 00:12:03] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 85
+[15-Dec-2014 00:14:37] PHP Warning:  preg_match_all() expects at least 3 parameters, 2 given in /home/electronicpalace/public_html/Register.php on line 278
+[15-Dec-2014 00:16:38] PHP Warning:  preg_match_all() expects at least 3 parameters, 2 given in /home/electronicpalace/public_html/Register.php on line 278
+[15-Dec-2014 00:17:11] PHP Fatal error:  Call to undefined method SplFileInfo::getExtension() in /home/electronicpalace/public_html/sellproducts.php on line 36
+[15-Dec-2014 00:23:01] PHP Warning:  preg_match_all() expects at least 3 parameters, 2 given in /home/electronicpalace/public_html/Register.php on line 278
+[15-Dec-2014 00:26:15] PHP Fatal error:  Only variables can be passed by reference in /home/electronicpalace/public_html/Register.php on line 278
+[15-Dec-2014 00:28:40] PHP Warning:  include(tute\t1.php): failed to open stream: No such file or directory in /home/electronicpalace/public_html/Register.php on line 215
+[15-Dec-2014 00:28:40] PHP Warning:  include(): Failed opening 'tute\t1.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /home/electronicpalace/public_html/Register.php on line 215
+[15-Dec-2014 00:28:40] PHP Fatal error:  Call to undefined function sentmail() in /home/electronicpalace/public_html/Register.php on line 219
+[15-Dec-2014 00:34:10] PHP Warning:  include(tute\t1.php): failed to open stream: No such file or directory in /home/electronicpalace/public_html/Register.php on line 212
+[15-Dec-2014 00:34:10] PHP Warning:  include(): Failed opening 'tute\t1.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /home/electronicpalace/public_html/Register.php on line 212
+[15-Dec-2014 00:34:10] PHP Fatal error:  Call to undefined function sentmail() in /home/electronicpalace/public_html/Register.php on line 216
+[15-Dec-2014 00:39:21] PHP Warning:  include(tute\t1.php): failed to open stream: No such file or directory in /home/electronicpalace/public_html/Register.php on line 212
+[15-Dec-2014 00:39:21] PHP Warning:  include(): Failed opening 'tute\t1.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /home/electronicpalace/public_html/Register.php on line 212
+[15-Dec-2014 00:39:21] PHP Fatal error:  Call to undefined function sentmail() in /home/electronicpalace/public_html/Register.php on line 216
+[15-Dec-2014 00:40:59] PHP Fatal error:  Call to undefined method SplFileInfo::getExtension() in /home/electronicpalace/public_html/sellproducts.php on line 34
+[15-Dec-2014 00:44:40] PHP Fatal error:  Call to undefined method SplFileInfo::getExtension() in /home/electronicpalace/public_html/sellproducts.php on line 34
+[15-Dec-2014 00:48:00] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/laptop.php on line 72
+[15-Dec-2014 00:50:04] PHP Fatal error:  Call to undefined method SplFileInfo::getExtension() in /home/electronicpalace/public_html/sellproducts.php on line 35
+[15-Dec-2014 00:51:02] PHP Fatal error:  Call to undefined method SplFileInfo::getExtension() in /home/electronicpalace/public_html/sellproducts.php on line 35
+[15-Dec-2014 01:17:15] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 93
+[15-Dec-2014 01:17:18] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/electronicpalace/public_html/payment.php on line 3
+[15-Dec-2014 01:17:18] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /home/electronicpalace/public_html/payment.php on line 3
+[15-Dec-2014 01:17:18] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Singapore' for 'SGT/8.0/no DST' instead in /home/electronicpalace/public_html/payment.php on line 25
+[15-Dec-2014 01:17:18] PHP Notice:  Undefined variable: dbhandle in /home/electronicpalace/public_html/payment.php on line 26
+[15-Dec-2014 01:17:18] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/electronicpalace/public_html/payment.php on line 27
+[15-Dec-2014 01:17:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/electronicpalace/public_html/payment.php on line 28
+[15-Dec-2014 01:17:56] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/electronicpalace/public_html/payment.php on line 3
+[15-Dec-2014 01:17:56] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /home/electronicpalace/public_html/payment.php on line 3
+[15-Dec-2014 01:17:56] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Singapore' for 'SGT/8.0/no DST' instead in /home/electronicpalace/public_html/payment.php on line 21
+[15-Dec-2014 01:17:56] PHP Notice:  Undefined variable: dbhandle in /home/electronicpalace/public_html/payment.php on line 22
+[15-Dec-2014 01:17:56] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/electronicpalace/public_html/payment.php on line 23
+[15-Dec-2014 01:17:56] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/electronicpalace/public_html/payment.php on line 24
+[15-Dec-2014 01:19:07] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/electronicpalace/public_html/payment.php on line 3
+[15-Dec-2014 01:19:07] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /home/electronicpalace/public_html/payment.php on line 3
+[15-Dec-2014 01:19:07] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Singapore' for 'SGT/8.0/no DST' instead in /home/electronicpalace/public_html/payment.php on line 21
+[15-Dec-2014 01:19:07] PHP Notice:  Undefined variable: dbhandle in /home/electronicpalace/public_html/payment.php on line 22
+[15-Dec-2014 01:19:07] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/electronicpalace/public_html/payment.php on line 23
+[15-Dec-2014 01:19:07] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/electronicpalace/public_html/payment.php on line 24
+[15-Dec-2014 01:19:09] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/electronicpalace/public_html/payment.php on line 3
+[15-Dec-2014 01:19:09] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /home/electronicpalace/public_html/payment.php on line 3
+[15-Dec-2014 01:19:09] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Singapore' for 'SGT/8.0/no DST' instead in /home/electronicpalace/public_html/payment.php on line 21
+[15-Dec-2014 01:19:09] PHP Notice:  Undefined variable: dbhandle in /home/electronicpalace/public_html/payment.php on line 22
+[15-Dec-2014 01:19:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/electronicpalace/public_html/payment.php on line 23
+[15-Dec-2014 01:19:09] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/electronicpalace/public_html/payment.php on line 24
+[15-Dec-2014 01:19:21] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/electronicpalace/public_html/payment.php on line 3
+[15-Dec-2014 01:19:21] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /home/electronicpalace/public_html/payment.php on line 3
+[15-Dec-2014 01:19:21] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Singapore' for 'SGT/8.0/no DST' instead in /home/electronicpalace/public_html/payment.php on line 21
+[15-Dec-2014 01:19:21] PHP Notice:  Undefined variable: dbhandle in /home/electronicpalace/public_html/payment.php on line 22
+[15-Dec-2014 01:19:21] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/electronicpalace/public_html/payment.php on line 23
+[15-Dec-2014 01:19:21] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/electronicpalace/public_html/payment.php on line 24
+[15-Dec-2014 01:19:42] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/electronicpalace/public_html/payment.php on line 4
+[15-Dec-2014 01:19:42] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /home/electronicpalace/public_html/payment.php on line 4
+[15-Dec-2014 01:19:42] PHP Notice:  Undefined variable: dbhandle in /home/electronicpalace/public_html/payment.php on line 23
+[15-Dec-2014 01:19:42] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/electronicpalace/public_html/payment.php on line 24
+[15-Dec-2014 01:19:42] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/electronicpalace/public_html/payment.php on line 25
+[15-Dec-2014 01:20:56] PHP Warning:  include(tute\t1.php): failed to open stream: No such file or directory in /home/electronicpalace/public_html/link2.php on line 13
+[15-Dec-2014 01:20:56] PHP Warning:  include(): Failed opening 'tute\t1.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /home/electronicpalace/public_html/link2.php on line 13
+[15-Dec-2014 01:20:56] PHP Fatal error:  Call to undefined function sentmail() in /home/electronicpalace/public_html/link2.php on line 45
+[15-Dec-2014 01:21:22] PHP Warning:  include(tute\t1.php): failed to open stream: No such file or directory in /home/electronicpalace/public_html/link2.php on line 13
+[15-Dec-2014 01:21:22] PHP Warning:  include(): Failed opening 'tute\t1.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /home/electronicpalace/public_html/link2.php on line 13
+[15-Dec-2014 01:21:22] PHP Fatal error:  Call to undefined function sentmail() in /home/electronicpalace/public_html/link2.php on line 45
+[15-Dec-2014 01:21:24] PHP Warning:  include(tute\t1.php): failed to open stream: No such file or directory in /home/electronicpalace/public_html/link2.php on line 13
+[15-Dec-2014 01:21:24] PHP Warning:  include(): Failed opening 'tute\t1.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /home/electronicpalace/public_html/link2.php on line 13
+[15-Dec-2014 01:21:24] PHP Fatal error:  Call to undefined function sentmail() in /home/electronicpalace/public_html/link2.php on line 45
+[15-Dec-2014 01:21:46] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/profile.php on line 11
+[15-Dec-2014 01:21:52] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 93
+[15-Dec-2014 01:21:54] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 93
+[15-Dec-2014 01:22:17] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 93
+[15-Dec-2014 01:22:24] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/profile.php on line 11
+[15-Dec-2014 01:22:32] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 93
+[15-Dec-2014 01:22:53] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/profile.php on line 11
+[15-Dec-2014 01:25:12] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/profile.php on line 10
+[15-Dec-2014 01:26:37] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/profile.php on line 10
+[15-Dec-2014 01:27:04] PHP Notice:  Undefined variable: valid in /home/electronicpalace/public_html/sign.php on line 100
+[15-Dec-2014 01:27:04] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/profile.php on line 10
+[15-Dec-2014 01:28:08] PHP Notice:  Undefined variable: valid in /home/electronicpalace/public_html/sign.php on line 100
+[15-Dec-2014 01:28:20] PHP Notice:  Undefined variable: valid in /home/electronicpalace/public_html/sign.php on line 100
+[15-Dec-2014 01:28:20] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/profile.php on line 10
+[15-Dec-2014 01:28:24] PHP Notice:  Undefined variable: valid in /home/electronicpalace/public_html/sign.php on line 100
+[15-Dec-2014 01:28:24] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/profile.php on line 10
+[15-Dec-2014 01:29:33] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 91
+[15-Dec-2014 01:29:52] PHP Notice:  Undefined variable: valid in /home/electronicpalace/public_html/sign.php on line 101
+[15-Dec-2014 01:31:12] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/electronicpalace/public_html/sign.php on line 17
+[15-Dec-2014 01:31:25] PHP Notice:  Undefined variable: valid in /home/electronicpalace/public_html/sign.php on line 102
+[15-Dec-2014 01:32:16] PHP Notice:  Undefined variable: valid in /home/electronicpalace/public_html/sign.php on line 102
+[15-Dec-2014 01:32:30] PHP Notice:  Undefined variable: valid in /home/electronicpalace/public_html/sign.php on line 102
+[15-Dec-2014 01:32:38] PHP Notice:  Undefined variable: valid in /home/electronicpalace/public_html/sign.php on line 86
+[15-Dec-2014 01:33:16] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[15-Dec-2014 01:33:47] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[15-Dec-2014 01:34:05] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[15-Dec-2014 01:34:22] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[15-Dec-2014 19:39:50] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[15-Dec-2014 19:40:02] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 19
+[16-Dec-2014 12:30:48] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[16-Dec-2014 12:31:25] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 19
+[16-Dec-2014 17:00:07] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[16-Dec-2014 23:28:26] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[16-Dec-2014 23:29:48] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[16-Dec-2014 23:33:28] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[16-Dec-2014 23:38:34] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/profile.php on line 10
+[16-Dec-2014 23:49:57] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 85
+[16-Dec-2014 23:50:00] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 85
+[17-Dec-2014 00:30:43] PHP Parse error:  syntax error, unexpected '{' in /home/electronicpalace/public_html/index.php on line 3
+[17-Dec-2014 00:30:43] PHP Parse error:  syntax error, unexpected '{' in /home/electronicpalace/public_html/index.php on line 3
+[17-Dec-2014 00:36:04] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 89
+[17-Dec-2014 00:36:06] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 89
+[17-Dec-2014 00:36:06] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 89
+[17-Dec-2014 00:36:07] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 89
+[17-Dec-2014 00:43:12] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 90
+[17-Dec-2014 00:43:13] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 90
+[17-Dec-2014 00:43:13] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 90
+[17-Dec-2014 00:43:14] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 90
+[17-Dec-2014 00:43:14] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 90
+[17-Dec-2014 00:48:10] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[17-Dec-2014 13:15:10] PHP Parse error:  syntax error, unexpected '}' in /home/electronicpalace/public_html/cart_update.php on line 73
+[17-Dec-2014 15:12:45] PHP Notice:  Undefined variable: _SESSION in /home/electronicpalace/public_html/index.php on line 46
+[17-Dec-2014 15:12:45] PHP Notice:  Undefined variable: _SESSION in /home/electronicpalace/public_html/index.php on line 50
+[17-Dec-2014 15:13:55] PHP Notice:  Undefined variable: _SESSION in /home/electronicpalace/public_html/index.php on line 47
+[17-Dec-2014 15:13:55] PHP Notice:  Undefined variable: _SESSION in /home/electronicpalace/public_html/index.php on line 51
+[17-Dec-2014 15:14:14] PHP Notice:  Undefined variable: _SESSION in /home/electronicpalace/public_html/index.php on line 47
+[17-Dec-2014 15:14:14] PHP Notice:  Undefined variable: _SESSION in /home/electronicpalace/public_html/index.php on line 51
+[17-Dec-2014 15:15:38] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/index.php on line 49
+[17-Dec-2014 15:17:07] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/index.php on line 49
+[17-Dec-2014 15:22:20] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 91
+[17-Dec-2014 15:23:17] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 94
+[17-Dec-2014 15:26:22] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 94
+[17-Dec-2014 15:30:45] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 107
+[17-Dec-2014 15:35:37] PHP Notice:  Undefined variable: cart_item in /home/electronicpalace/public_html/view_cart.php on line 36
+[17-Dec-2014 15:37:00] PHP Notice:  Undefined variable: cart_item in /home/electronicpalace/public_html/view_cart.php on line 36
+[17-Dec-2014 15:37:05] PHP Notice:  Undefined variable: cart_item in /home/electronicpalace/public_html/view_cart.php on line 37
+[17-Dec-2014 15:58:34] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 109
+[17-Dec-2014 16:12:27] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 109
+[17-Dec-2014 17:27:29] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[17-Dec-2014 19:05:14] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[17-Dec-2014 19:12:27] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[17-Dec-2014 19:14:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[17-Dec-2014 19:34:16] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/camera.php on line 66
+[17-Dec-2014 20:14:40] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[17-Dec-2014 20:14:58] PHP Warning:  preg_match_all() expects at least 3 parameters, 2 given in /home/electronicpalace/public_html/profile.php on line 210
+[17-Dec-2014 23:02:19] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 22
+[17-Dec-2014 23:02:37] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 22
+[17-Dec-2014 23:13:27] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 22
+[17-Dec-2014 23:58:03] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[17-Dec-2014 23:58:47] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 19
+[17-Dec-2014 23:58:47] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 20
+[17-Dec-2014 23:59:15] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 109
+[17-Dec-2014 23:59:51] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 00:03:28] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 00:05:21] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 00:07:27] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 00:14:54] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/electronicpalace/public_html/tute/t1.php on line 52
+[18-Dec-2014 00:16:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 11:39:41] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 11:40:26] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 11:51:07] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 11:51:30] PHP Parse error:  syntax error, unexpected T_STRING in /home/electronicpalace/public_html/link2.php on line 56
+[18-Dec-2014 11:51:36] PHP Parse error:  syntax error, unexpected T_STRING in /home/electronicpalace/public_html/link2.php on line 56
+[18-Dec-2014 12:05:12] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 12:10:00] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 13:06:53] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 79
+[18-Dec-2014 20:56:13] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 20:57:32] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 19
+[18-Dec-2014 20:57:32] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 20
+[18-Dec-2014 21:01:13] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 21:03:08] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 19
+[18-Dec-2014 21:03:08] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 20
+[18-Dec-2014 21:04:15] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 21:20:36] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/TrackHistroy.php on line 65
+[18-Dec-2014 21:23:46] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:24:05] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:24:05] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/TrackHistroy.php on line 65
+[18-Dec-2014 21:24:07] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:24:09] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/TrackHistroy.php on line 65
+[18-Dec-2014 21:24:12] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:24:17] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:24:17] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/TrackHistroy.php on line 65
+[18-Dec-2014 21:24:20] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:24:24] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:24:24] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/TrackHistroy.php on line 65
+[18-Dec-2014 21:24:31] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:24:38] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:24:38] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/TrackHistroy.php on line 65
+[18-Dec-2014 21:24:45] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:24:48] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:24:48] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/TrackHistroy.php on line 65
+[18-Dec-2014 21:25:05] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:27:44] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:29:36] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:29:39] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/traxkorder.php on line 64
+[18-Dec-2014 21:29:39] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/TrackHistroy.php on line 65
+[18-Dec-2014 21:30:18] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/TrackHistroy.php on line 65
+[18-Dec-2014 21:31:36] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/TrackHistroy.php on line 65
+[18-Dec-2014 21:55:06] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[18-Dec-2014 21:56:00] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 19
+[18-Dec-2014 21:56:00] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 20
+[18-Dec-2014 23:30:25] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 10:03:18] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 10:24:48] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 10:56:19] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 11:04:10] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 11:06:57] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 11:07:57] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 11:19:37] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 11:20:02] PHP Warning:  preg_match_all() expects at least 3 parameters, 2 given in /home/electronicpalace/public_html/profile.php on line 211
+[19-Dec-2014 11:33:54] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 11:34:19] PHP Warning:  preg_match_all() expects at least 3 parameters, 2 given in /home/electronicpalace/public_html/profile.php on line 211
+[19-Dec-2014 11:34:44] PHP Warning:  preg_match_all() expects at least 3 parameters, 2 given in /home/electronicpalace/public_html/profile.php on line 211
+[19-Dec-2014 11:45:38] PHP Warning:  preg_match_all() expects at least 3 parameters, 2 given in /home/electronicpalace/public_html/profile.php on line 211
+[19-Dec-2014 11:45:56] PHP Warning:  preg_match_all() expects at least 3 parameters, 2 given in /home/electronicpalace/public_html/profile.php on line 211
+[19-Dec-2014 11:55:19] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 12:03:47] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 12:05:20] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 21
+[19-Dec-2014 12:05:20] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[19-Dec-2014 12:05:43] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 12:06:30] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 21
+[19-Dec-2014 12:06:30] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[19-Dec-2014 12:07:35] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 12:57:08] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 13:22:45] PHP Notice:  Undefined index: registration in /home/electronicpalace/public_html/index.php on line 6
+[19-Dec-2014 13:23:28] PHP Notice:  Undefined index: registration in /home/electronicpalace/public_html/index.php on line 6
+[19-Dec-2014 13:23:29] PHP Notice:  Undefined index: registration in /home/electronicpalace/public_html/index.php on line 6
+[19-Dec-2014 13:23:51] PHP Notice:  Undefined index: registration in /home/electronicpalace/public_html/index.php on line 6
+[19-Dec-2014 13:24:25] PHP Notice:  Undefined index: registration in /home/electronicpalace/public_html/index.php on line 6
+[19-Dec-2014 13:26:02] PHP Notice:  Undefined index: registration in /home/electronicpalace/public_html/index.php on line 6
+[19-Dec-2014 13:26:51] PHP Notice:  Undefined index: registration in /home/electronicpalace/public_html/index.php on line 6
+[19-Dec-2014 13:26:52] PHP Notice:  Undefined index: registration in /home/electronicpalace/public_html/index.php on line 6
+[19-Dec-2014 13:26:55] PHP Notice:  Undefined index: registration in /home/electronicpalace/public_html/index.php on line 6
+[19-Dec-2014 13:33:41] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 79
+[19-Dec-2014 13:36:44] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 13:43:34] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/electronicpalace/public_html/search_P.php on line 147
+[19-Dec-2014 13:44:49] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/electronicpalace/public_html/search_P.php on line 147
+[19-Dec-2014 13:44:49] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/electronicpalace/public_html/search_P.php on line 147
+[19-Dec-2014 13:46:22] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/electronicpalace/public_html/search_P.php on line 147
+[19-Dec-2014 13:48:38] PHP Parse error:  syntax error, unexpected '<' in /home/electronicpalace/public_html/search_P.php on line 162
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 87
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:16] PHP Notice:  Undefined variable: current_url in /home/electronicpalace/public_html/search_P.php on line 150
+[19-Dec-2014 13:49:59] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 13:50:07] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 87
+[19-Dec-2014 13:50:20] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 21
+[19-Dec-2014 13:50:20] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[19-Dec-2014 13:50:28] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[19-Dec-2014 13:51:24] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 13:52:56] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 87
+[19-Dec-2014 13:53:25] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 87
+[19-Dec-2014 13:55:08] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 87
+[19-Dec-2014 13:55:35] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 87
+[19-Dec-2014 13:56:11] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 87
+[19-Dec-2014 14:00:38] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 87
+[19-Dec-2014 14:01:40] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 14:04:55] PHP Parse error:  syntax error, unexpected '[' in /home/electronicpalace/public_html/search_P.php on line 88
+[19-Dec-2014 14:07:13] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 14:07:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[19-Dec-2014 16:14:11] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[20-Dec-2014 00:24:49] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[20-Dec-2014 00:35:22] PHP Notice:  Undefined variable: _SESSION in /home/electronicpalace/public_html/header.php on line 35
+[20-Dec-2014 00:35:52] PHP Notice:  Undefined variable: _SESSION in /home/electronicpalace/public_html/header.php on line 35
+[20-Dec-2014 00:37:25] PHP Notice:  Undefined variable: page_title in /home/electronicpalace/public_html/header.php on line 13
+[20-Dec-2014 00:38:17] PHP Notice:  Undefined variable: page_title in /home/electronicpalace/public_html/header.php on line 13
+[20-Dec-2014 00:38:28] PHP Notice:  Undefined variable: page_title in /home/electronicpalace/public_html/header.php on line 13
+[20-Dec-2014 00:38:37] PHP Notice:  Undefined variable: page_title in /home/electronicpalace/public_html/header.php on line 13
+[20-Dec-2014 00:38:42] PHP Notice:  Undefined variable: page_title in /home/electronicpalace/public_html/header.php on line 13
+[20-Dec-2014 00:39:07] PHP Notice:  Undefined variable: page_title in /home/electronicpalace/public_html/header.php on line 13
+[20-Dec-2014 00:39:17] PHP Notice:  Undefined variable: page_title in /home/electronicpalace/public_html/header.php on line 13
+[20-Dec-2014 01:11:12] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(//Maildir): failed to open dir: Permission denied' in /home/electronicpalace/public_html/zipall.php:24
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('//Maildir', 0)
+#1 /home/electronicpalace/public_html/zipall.php(24): RecursiveDirectoryIterator->getChildren()
+#2 /home/electronicpalace/public_html/zipall.php(46): zipFile('/', 'electronic-pala...')
+#3 {main}
+  thrown in /home/electronicpalace/public_html/zipall.php on line 24
+[20-Dec-2014 01:44:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[20-Dec-2014 02:03:11] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[20-Dec-2014 02:43:41] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 109
+[20-Dec-2014 10:08:08] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[20-Dec-2014 10:24:12] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[20-Dec-2014 10:30:41] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 21
+[20-Dec-2014 10:30:41] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[20-Dec-2014 17:29:38] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 87
+[20-Dec-2014 17:30:37] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 87
+[20-Dec-2014 17:50:05] PHP Notice:  Undefined variable: result1 in /home/electronicpalace/public_html/search_P.php on line 207
+[20-Dec-2014 17:50:05] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/electronicpalace/public_html/search_P.php on line 207
+[20-Dec-2014 17:50:05] PHP Notice:  Undefined variable: view in /home/electronicpalace/public_html/search_P.php on line 212
+[20-Dec-2014 17:57:58] PHP Notice:  Undefined index: Search in /home/electronicpalace/public_html/search_P.php on line 87
+[20-Dec-2014 18:09:49] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 109
+[20-Dec-2014 18:13:51] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[20-Dec-2014 19:46:47] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[20-Dec-2014 19:52:16] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 21
+[20-Dec-2014 19:52:16] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[20-Dec-2014 19:58:32] PHP Notice:  Undefined variable: user_db in /home/electronicpalace/public_html/Register.php on line 676
+[20-Dec-2014 19:59:58] PHP Notice:  Undefined variable: user_db in /home/electronicpalace/public_html/Register.php on line 676
+[20-Dec-2014 20:00:06] PHP Notice:  Undefined variable: user_db in /home/electronicpalace/public_html/Register.php on line 676
+[20-Dec-2014 20:23:42] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[20-Dec-2014 20:31:02] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 109
+[20-Dec-2014 20:31:02] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 109
+[20-Dec-2014 20:47:44] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[20-Dec-2014 20:52:36] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[20-Dec-2014 20:53:14] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[20-Dec-2014 21:33:03] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[20-Dec-2014 21:33:34] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[20-Dec-2014 21:36:00] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[20-Dec-2014 22:00:13] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[20-Dec-2014 22:13:12] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[20-Dec-2014 22:25:51] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[20-Dec-2014 23:07:42] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[21-Dec-2014 00:11:06] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 00:23:39] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 00:42:12] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 00:42:32] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 00:42:50] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 00:47:03] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[21-Dec-2014 01:05:08] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 01:51:59] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 03:33:54] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 03:35:36] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[21-Dec-2014 05:05:15] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 05:05:48] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[21-Dec-2014 08:43:40] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 08:43:41] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 08:43:42] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 08:43:44] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 08:43:45] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 10:27:20] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 10:39:17] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 12:55:50] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 12:56:20] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 16:01:49] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[21-Dec-2014 17:29:02] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 17:39:06] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 17:45:00] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 17:46:57] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 17:55:37] PHP Notice:  Undefined variable: unit2 in /home/electronicpalace/public_html/Register.php on line 702
+[21-Dec-2014 18:05:40] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[21-Dec-2014 21:01:19] PHP Fatal error:  Call to undefined function valid_pass() in /home/electronicpalace/public_html/Register.php on line 173
+[21-Dec-2014 23:23:41] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 109
+[22-Dec-2014 09:46:22] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/electronicpalace/public_html/Count_Views_web.php on line 7
+[22-Dec-2014 10:03:41] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[22-Dec-2014 10:13:19] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[22-Dec-2014 11:43:48] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 109
+[22-Dec-2014 14:50:28] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[22-Dec-2014 15:18:03] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[22-Dec-2014 15:23:19] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[22-Dec-2014 15:25:05] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 21
+[22-Dec-2014 15:25:05] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[22-Dec-2014 15:25:32] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[22-Dec-2014 19:05:50] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[22-Dec-2014 19:15:36] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 21
+[22-Dec-2014 19:15:36] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[22-Dec-2014 19:15:38] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/profile.php on line 10
+[22-Dec-2014 21:09:56] PHP Notice:  Undefined variable: product in /home/electronicpalace/public_html/cart_update.php on line 109
+[22-Dec-2014 21:10:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[22-Dec-2014 21:10:45] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 21
+[22-Dec-2014 21:10:45] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[22-Dec-2014 21:11:28] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[22-Dec-2014 21:38:16] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[23-Dec-2014 20:31:36] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[23-Dec-2014 20:37:31] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 21
+[23-Dec-2014 20:37:31] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[23-Dec-2014 21:37:56] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[24-Dec-2014 10:47:51] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[24-Dec-2014 10:53:08] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 21
+[24-Dec-2014 10:53:08] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[24-Dec-2014 10:54:29] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[24-Dec-2014 11:06:04] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 21
+[24-Dec-2014 11:06:04] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[24-Dec-2014 11:09:08] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[24-Dec-2014 16:56:45] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[24-Dec-2014 17:02:59] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 21
+[24-Dec-2014 17:02:59] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[24-Dec-2014 17:03:04] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/profile.php on line 10
+[24-Dec-2014 17:37:00] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[24-Dec-2014 20:16:36] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[25-Dec-2014 00:18:11] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[25-Dec-2014 21:55:00] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[25-Dec-2014 21:56:07] PHP Notice:  Undefined index: total in /home/electronicpalace/public_html/payment.php on line 21
+[25-Dec-2014 21:56:07] PHP Notice:  Undefined index: id in /home/electronicpalace/public_html/payment.php on line 22
+[26-Dec-2014 22:54:38] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[27-Dec-2014 19:33:45] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94
+[28-Dec-2014 18:07:22] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/view_camera.php on line 75
+[28-Dec-2014 18:07:23] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/view_camera.php on line 75
+[28-Dec-2014 18:07:26] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/view_camera.php on line 75
+[28-Dec-2014 18:07:27] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/view_camera.php on line 75
+[28-Dec-2014 18:07:29] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/view_camera.php on line 75
+[28-Dec-2014 18:07:30] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/view_camera.php on line 75
+[28-Dec-2014 18:07:32] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/view_camera.php on line 75
+[28-Dec-2014 18:07:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/view_camera.php on line 75
+[28-Dec-2014 18:07:35] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/view_camera.php on line 75
+[28-Dec-2014 18:07:36] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/electronicpalace/public_html/view_camera.php on line 75
+[02-Jan-2015 00:22:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/electronicpalace/public_html/sign.php on line 94

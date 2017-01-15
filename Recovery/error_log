@@ -1,0 +1,1 @@
+[15-Dec-2014 15:02:21] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/electronicpalace/public_html/Recovery/Database.php on line 10
